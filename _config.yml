@@ -22,12 +22,12 @@ repository               : "leo-vigny/leo-vigny.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profil_pic.jpeg"
   name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Economist"
   location         : "Paris"
-  employer         : "CGT / ACT - Université Sorbonne Paris Nord"
+  employer         : "CGT / U. Sorbonne Paris Nord"
   uri              : # URL
   email            : "leo.vigny@orange.fr" 
 

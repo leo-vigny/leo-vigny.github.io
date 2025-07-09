@@ -11,7 +11,7 @@ author_profile: true
 
 ## Published work
 
-[*Quantifier le secteur public: que nous apprend l’indicateur «dépense publique»?*](https://shs.cairn.info/revue-revue-francaise-de-socio-economie-2025-1-page-189?lang=fr&tab=resume), Revue Française de Socio-Économie, 2025 - Vigny, Léo
+[*Quantifier le secteur public: que nous apprend l’indicateur «dépense publique» ?*](https://shs.cairn.info/revue-revue-francaise-de-socio-economie-2025-1-page-189?lang=fr&tab=resume), Revue Française de Socio-Économie, 2025 - Vigny, Léo
 
 <img align="left" src="https://leo-vigny.github.io/images/graph_indic.png" alt="Photo" style="width: 350px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 

@@ -35,6 +35,9 @@ author_profile: true
 
 [Article](http://leo-vigny.github.io/files/research/vigny-2025-greece.pdf)
 
+<br><br><br>
+
+
 [*Les dépenses publiques et leurs déterminants : revue de la litétrature et mise en perspective dans le contexte institutionnel européen*](https://shs.cairn.info/revue-de-l-ofce-2022-4-page-49?lang=fr), Revue de l'OFCE, 2022 - Lechevalier, Arnaud et Vigny, Léo
 
 <div style="display: flex; align-items: center;">
@@ -44,5 +47,8 @@ author_profile: true
 </div>
 
 [Article](http://leo-vigny.github.io/files/research/vigny-2022-determinant.pdf)
+
+<br><br><br>
+
 
 ## Working Papers

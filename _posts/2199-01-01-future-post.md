@@ -2,6 +2,7 @@
 title: 'Premier post'
 date: 2025-07-09
 permalink: /posts/2012/08/blog-post-4/
+published: true
 tags:
   - cool posts
   - category1

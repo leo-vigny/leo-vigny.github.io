@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Blog posts"
 permalink: /year-archive/2025_n1
 author_profile: true

@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 4"
+title: "Quantifier le secteur public: que nous apprend l’indicateur «dépense publique» ?"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/vigny-2025
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'

@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Quantifier le secteur public: que nous apprend l’indicateur «dépense publique» ?"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
+permalink: /publication/
+date: 2025
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+paperurl: 'https://shs.cairn.info/revue-revue-francaise-de-socio-economie-2025-1-page-189?lang=fr&tab=premieres-lignes'
+citation: 'Vigny, Leo. (2025). &quot;Quantifier le secteur public: que nous apprend l’indicateur «dépense publique» ?.&quot; <i>Revue Française de Socio-Économie</i>. 34(1), 189-211.'
 ---
+
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.

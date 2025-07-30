@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/vigny-2025-rfse/
 date: 2025
 venue: 'Revue Française de Socio-Économie'
-paperurl: 'https://shs.cairn.info/revue-revue-francaise-de-socio-economie-2025-1-page-189?lang=fr&tab=premieres-lignes'
+paperurl: 'http://leo-vigny.github.io/files/research/vigny-2025-indicateur.pdf'
 citation: 'Vigny, Leo. (2025). &quot;Quantifier le secteur public: que nous apprend l’indicateur «dépense publique» ?.&quot; <i>Revue Française de Socio-Économie</i>. 34(1), 189-211.'
 ---
 

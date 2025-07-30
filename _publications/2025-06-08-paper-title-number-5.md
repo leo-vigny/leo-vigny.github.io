@@ -2,12 +2,13 @@
 title: "Quantifier le secteur public: que nous apprend l’indicateur «dépense publique» ?"
 collection: publications
 category: conferences
-permalink: /publication/
+permalink: /publication/vigny-2025-rfse/
 date: 2025
-venue: 'GitHub Journal of Bugs'
+venue: 'Revue Française de Socio-Économie'
 paperurl: 'https://shs.cairn.info/revue-revue-francaise-de-socio-economie-2025-1-page-189?lang=fr&tab=premieres-lignes'
 citation: 'Vigny, Leo. (2025). &quot;Quantifier le secteur public: que nous apprend l’indicateur «dépense publique» ?.&quot; <i>Revue Française de Socio-Économie</i>. 34(1), 189-211.'
 ---
 
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Cet article se propose de montrer les limites de l’indicateur « dépense publique » pour étudier le secteur public, limites qui apparaissent d’autant plus importantes dans le cadre de comparaisons internationales. Nous expliquons ces limites par les nécessités politiques qui sous-tendent l’évolution des statistiques. Nous montrons notamment comment l’intégration progressive du secteur public dans le système de comptabilité nationale (scn) répond à la fois à un besoin de quantification du secteur public et à des besoins politiques de contrôle de la politique budgétaire.</p>
+ 
+[Article](http://leo-vigny.github.io/files/research/vigny-2025-indicateur.pdf) 

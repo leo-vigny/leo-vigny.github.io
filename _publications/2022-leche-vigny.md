@@ -2,7 +2,7 @@
 title: "Les dépenses publiques et leurs déterminants : revue de la litétrature et mise en perspective dans le contexte institutionnel européen"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/leche-vigny-2022
 excerpt: 'This is a litterature review of the determinants of public spendings.'
 date: 2022
 venue: 'Revue de l'OFCE'

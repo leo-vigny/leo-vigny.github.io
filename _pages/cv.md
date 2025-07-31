@@ -44,11 +44,4 @@ Publications
   {% endfor %}</ul>
 
 
-Working Papers
-==============
-<ul>
-  {% for post in site.working-papers reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-</ul>
 

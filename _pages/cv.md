@@ -45,12 +45,10 @@ Publications
 
 
 Working Papers
-======
+==============
 <ul>
-  {% for post in site.publications reversed %}
-    {% if post.category == "working-paper" %}
-      {% include archive-single-cv.html %}
-    {% endif %}
+  {% for post in site.working-papers reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
 

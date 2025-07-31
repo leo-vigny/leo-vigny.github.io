@@ -7,7 +7,7 @@ excerpt: 'This is a litterature review of the determinants of public spendings.'
 date: 2022-12-01
 venue: 'Revue de l'OFCE'
 paperurl: 'http://leo-vigny.github.io/files/research/vigny-2022-determinant.pdf'
-citation: 'Lechevalier, Arnaud et Vigny, Leo. (2022). &quot;Les dépenses publiques et leurs déterminants : revue de la litétrature et mise en perspective dans le contexte institutionnel européen.&quot; <i>Revue de l'OFCE 1</i>. 179(4), 49-101.'
+citation: 'Lechevalier, Arnaud et Vigny, Leo. (2022). "Les dépenses publiques et leurs déterminants : revue de la litétrature et mise en perspective dans le contexte institutionnel européen".&quot; <i>Revue de l'OFCE 1</i>. 179(4), 49-101.'
 ---
 
 <div style="display: flex; align-items: center;">

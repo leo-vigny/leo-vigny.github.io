@@ -44,4 +44,8 @@ Publications
   {% endfor %}</ul>
 
 
-
+Working-papers
+======
+  <ul>{% for post in site.workingpapers reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

@@ -1,13 +1,13 @@
 ---
-title: "The Greek sovereign crisis: A post-Keynesian synthesis"
+title: "Les dépenses publiques et leurs déterminants : revue de la litétrature et mise en perspective dans le contexte institutionnel européen"
 collection: publications
 category: manuscripts
 permalink: /publication/leche-vigny-2022
-excerpt: 'This paper explores the causes of the Greek crisis (2010-2015).'
-date: 2022-07-09
-venue: 'International Journal of Political Economy'
+excerpt: 'This paper explores the determinants and impacts of public spendings.'
+date: 2022-12-01
+venue: 'Revue de l OFCE'
 paperurl: 'http://leo-vigny.github.io/files/research/vigny-2022-greece.pdf'
-citation: 'Vigny, Leo. (2022). "The Greek sovereign crisis: A post-Keynesian synthesis."&quot; <i>International Journal of Political Economy 1</i>. 51(2), 151-169.'
+citation: 'Lechevalier, Arnaud et Vigny, Leo. (2022). "Les dépenses publiques et leurs déterminants : revue de la litétrature et mise en perspective dans le contexte institutionnel européen."&quot; <i>Revue de l OFCE 1</i>. 51(2), 151-169.'
 ---
 
 <div style="display: flex; align-items: center;">

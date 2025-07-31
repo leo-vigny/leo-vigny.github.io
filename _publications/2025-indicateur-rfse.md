@@ -1,7 +1,7 @@
 ---
 title: "Quantifier le secteur public: que nous apprend l’indicateur «dépense publique» ?"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/vigny-2025
 excerpt: 'This paper is about the measure of public expenditures.'
 date: 2025-06-30

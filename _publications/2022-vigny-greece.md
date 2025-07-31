@@ -7,7 +7,7 @@ excerpt: 'This paper explores the causes of the Greek crisis (2010-2015).'
 date: 2022-07-09
 venue: 'International Journal of Political Economy'
 paperurl: 'http://leo-vigny.github.io/files/research/vigny-2022-greece.pdf'
-citation: 'Vigny, Leo. (2022). &The Greek sovereign crisis: A post-Keynesian synthesis.&quot; <i>International Journal of Political Economy 1</i>. 51:2, 151-169.'
+citation: 'Vigny, Leo. (2022). &The Greek sovereign crisis: A post-Keynesian synthesis.&quot; <i>International Journal of Political Economy 1</i>. 51(2), 151-169.'
 ---
 
 <div style="display: flex; align-items: center;">

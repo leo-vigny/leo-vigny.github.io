@@ -18,13 +18,23 @@ Education
 
 Work experience
 ======
+
 * Since February 2025 : Statistician at the Confédération Général du Travail
-  * Duties includes: Data processing and analysis
+  *  Data processing and analysis
 
 * 2024: Post-doc fellowship at LIEPP
   * Theme: public aid in the European Union
   * Sciences Po, Paris
   * Supervisor: Bruno Palier
+  
+* 2021-23: Lecturer at Université Paris 1 Panthéon-Sorbonne
+  * Teaching : labour economics, welfare economics, microeconomics
+  * Research : Ph.d in economics
+  
+* 2018-21: Lecturer at Université Sorbonne Paris Nord
+  * Teaching : macroeconomics, introduction to economics
+  * Research : Ph.d in economics
+  
   
   
 Publications
